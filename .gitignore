@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Raw dataset
+data/raw/*.txt
+
+# Generated data
+data/processed/*
+models/*
+reports/*
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
